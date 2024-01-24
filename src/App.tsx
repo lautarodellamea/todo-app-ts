@@ -1,8 +1,8 @@
 import './App.css'
 
-const App = () => {
+const App = (): JSX.Element => {
   return (
-   <h1>Todo MVC</h1>
+    <h1>Todo MVC</h1>
   )
 }
 
